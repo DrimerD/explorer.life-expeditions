@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'MuseoSansCyrl-300';
+    src: url('../fonts/MuseoSansCyrl-300.woff2') format('woff2'),
+    url('../fonts/MuseoSansCyrl-300.woff') format('woff'),
+    url('../fonts/MuseoSansCyrl-300.ttf') format('truetype'),
+    url('../fonts/MuseoSansCyrl-300.svg') format('svg'),
+    url('../fonts/MuseoSansCyrl-300.eot') format('eot');
+}
+@font-face {
+    font-family: 'MuseoSansCyrl-500';
+    src: url('../fonts/MuseoSansCyrl-500.woff2') format('woff2'),
+    url('../fonts/MuseoSansCyrl-500.woff') format('woff'),
+    url('../fonts/MuseoSansCyrl-500.ttf') format('truetype'),
+    url('../fonts/MuseoSansCyrl-500.svg') format('svg'),
+    url('../fonts/MuseoSansCyrl-500.eot') format('eot');
+}
