@@ -2,7 +2,7 @@
 section#main-img .partner-block {
     display: flex;
     justify-content: space-between;
-    padding: 42px 1rem;
+    padding: 42px 0;
 }
 
 section#main-img img {
@@ -1052,10 +1052,10 @@ section#mail .input-block input {
 }
 @media (max-width: 405px) {
     section#main-img .slide-container .text-container p.title {
-        font-size: 31px;
+        font-size: 30px;
     }
     section#main-img .slide-container .text-container p.description {
-        font-size: 21px;
+        font-size: 18px;
     }
     section#main-img .slide-container .text-container {
         height: auto;

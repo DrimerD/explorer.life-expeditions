@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b033f81f-a4d8-481d-8793-d85cad0660f7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/home-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/home-page.css" afterDir="false" />
-    </list>
+    <list default="true" id="b033f81f-a4d8-481d-8793-d85cad0660f7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -73,8 +70,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/home-page.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="257">
-                  <caret line="1045" column="18" selection-start-line="1045" selection-start-column="18" selection-end-line="1045" selection-end-column="18" />
+                <state relative-caret-position="182">
+                  <caret line="1040" column="5" lean-forward="true" selection-start-line="1040" selection-start-column="5" selection-end-line="1040" selection-end-column="5" />
                 </state>
               </provider>
             </entry>
@@ -205,12 +202,12 @@
       <updated>1550515695765</updated>
       <workItem from="1550515703396" duration="26852000" />
       <workItem from="1550615419485" duration="114000" />
-      <workItem from="1550694892703" duration="374000" />
+      <workItem from="1550694892703" duration="527000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27340000" />
+    <option name="totallyTimeSpent" value="27493000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="820" extended-state="0" />
@@ -314,8 +311,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/home-page.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="1045" column="18" selection-start-line="1045" selection-start-column="18" selection-end-line="1045" selection-end-column="18" />
+        <state relative-caret-position="182">
+          <caret line="1040" column="5" lean-forward="true" selection-start-line="1040" selection-start-column="5" selection-end-line="1040" selection-end-column="5" />
         </state>
       </provider>
     </entry>

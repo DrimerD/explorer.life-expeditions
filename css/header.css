@@ -11,7 +11,7 @@ header#main-nav .container {
     height: 100%;
 }
 header#main-nav .navbar {
-    padding: 0 1rem;
+    padding: 0;
     height: 100%;
 }
 header#main-nav .collapse {
